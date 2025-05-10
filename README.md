@@ -1,86 +1,106 @@
-# 👋 Hi there, I'm Manisha Dornala
-
-🎯 **Aspiring Business Analyst | Data Enthusiast | Financial Analyst**
-
-📍 Edinburg, TX | 📧 Manishadornala21107@gmail.com | [LinkedIn](https://www.linkedin.com/in/manisha-dornala/) 
----
-
-## ⭐ About Me
-
-Hello! I'm **Manisha Dornala**, a results-driven Business Analyst passionate about transforming data into actionable insights. I'm currently pursuing a **Master of Science in Business Analytics** at the University of North Texas, with a strong foundation in finance and experience working in higher education and financial institutions. My work focuses on **data analytics, financial reporting, and process optimization** using modern tools and technologies.
+# 👋 Hi, I’m Manisha Dornala  
+📊 **Business Analyst** | 📈 **Data Storyteller** | 💰 **Financial Insights Specialist**  
+📍 Edinburg, TX | 📧 Manishadornala21107@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/manisha-dornala/)
 
 ---
 
-## 🔍 What I'm Interested In
+## 💡 About Me
 
-- 📊 Data Analysis, Business Intelligence & Financial Modeling  
-- 📈 Predictive Modeling & Machine Learning (Supervised & Unsupervised Learning)  
-- ☁️ Cloud Platforms: AWS & Azure  
-- 📉 Streamlining business processes & improving decision-making with data  
-- 🤝 Collaborating on projects involving real-time data, automation & performance optimization
+I’m **Manisha Dornala**, a passionate Business Analyst and Financial Analyst who thrives at the intersection of **data, business, and strategy**. With a strong foundation in finance and hands-on experience in **data analysis, financial modeling, and business optimization**, I specialize in **turning raw data into actionable insights**.
+
+Currently pursuing an **M.S. in Business Analytics** at the University of North Texas, I’m driven by curiosity and a deep belief that **data tells the story behind every successful decision**.
 
 ---
 
-## 🔧 Technical Skills
+## 🔍 What I Bring to the Table
 
-**Languages & Tools:**  
-Python | R | SQL | VBA | Tableau | Power BI | QlikView | SAS | Excel | MySQL
-
-**Cloud & Platforms:**  
-AWS | Microsoft Azure | Banner Ellucian | WebFOCUS | TargetX
-
-**Techniques & Concepts:**  
-Decision Trees | Random Forest | Deep Learning | NLP | Feature Engineering | A/B Testing  
-Statistical Analysis | Data Governance | Data Modeling | Financial Reporting | Credit Risk
+✅ **Data-Driven Decision Making** — Building dashboards, reports, and models that inform strategies  
+✅ **Financial Foresight** — Translating trends and metrics into strategic insights  
+✅ **Analytical Rigor** — Deep dives into datasets using Python, R, SQL, and more  
+✅ **Process Optimization** — Automating reports, refining workflows, reducing errors  
+✅ **Collaborative Spirit** — Bridging the gap between tech, business, and leadership teams
 
 ---
 
-## 💼 Work Experience Highlights
+## 🧠 Technical Toolbox
 
-### 🔹 Business Analyst II – University of Texas Rio Grande Valley  
-- Streamlined ERP processes using Banner Ellucian; reduced reporting errors by 30%  
-- Created Power BI dashboards & SQL queries; improved report delivery time by 20%  
-- Led requirements gathering & security compliance coordination
+### 🛠️ Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat)  
+![SAS](https://img.shields.io/badge/SAS-0278AA?style=flat&logo=sas&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🔹 Graduate Student Data Analyst – University of North Texas  
-- Built financial models and dashboards using SAS Visual Analytics  
-- Extracted data using SQL, supported data governance, and led executive interviews  
-- Produced documentation guiding analytics initiatives for university leadership
+### ☁️ Platforms & Systems  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+Ellucian Banner • WebFOCUS • TargetX
 
-### 🔹 Fund & Financial Analyst – Wells Fargo India Pvt Ltd  
-- Oversaw loan disbursement processes using Excel & SQL, ensuring compliance  
-- Identified process inefficiencies, improved reporting accuracy, and supported underwriting  
-- Facilitated communication with stakeholders and improved SLA adherence
+### 📚 Techniques & Concepts  
+- Predictive Modeling • Machine Learning • A/B Testing  
+- Decision Trees • Financial Modeling • Credit Risk  
+- Data Governance • Data Cleaning • Statistical Inference
+
+---
+
+## 💼 Professional Highlights
+
+### 🏛️ Business Analyst II — University of Texas Rio Grande Valley  
+- Automated key ERP workflows using Banner Ellucian — cut reporting errors by **30%**  
+- Designed interactive Power BI dashboards — reduced report turnaround by **20%**  
+- Collaborated on data security & stakeholder reporting initiatives
+
+### 🎓 Graduate Data Analyst — University of North Texas  
+- Built dynamic dashboards in SAS Visual Analytics using financial and performance data  
+- Conducted executive interviews and developed business requirement documentation  
+- Supported university-wide data governance and analytics strategy
+
+### 🏦 Fund & Financial Analyst — Wells Fargo India Pvt Ltd  
+- Streamlined underwriting & disbursement reporting using SQL and Excel  
+- Identified reporting gaps, improving SLA metrics and regulatory compliance  
+- Collaborated cross-functionally with stakeholders and risk teams
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **M.S. in Business Analytics**, University of North Texas (Dec 2024)  
-- 🎓 **MBA in Finance**, Osmania University (Oct 2022)  
-- 📚 **Certifications:**  
-  - SQL Bootcamp  
-  - R (DataCamp)  
-  - Bloomberg Market Concepts  
-  - CPA (in progress)
+🎓 **M.S. Business Analytics** – University of North Texas *(Expected Dec 2024)*  
+🎓 **MBA, Finance** – Osmania University *(Oct 2022)*  
+
+### 📘 Certifications  
+- SQL Bootcamp  
+- R Programming (DataCamp)  
+- Bloomberg Market Concepts  
+- **CPA – In Progress**
 
 ---
 
-## 🗣️ Leadership & Community Involvement
+## 📣 Speaking & Community Involvement
 
-- 📢 Presenter – **TAIR Conference 2024**: Delivered insights from THECB Almanac Data  
-- 👥 Volunteer – **NSSE Initiative** at UNT: Supported VP in data-driven student engagement improvements  
-- 🌱 CSR Volunteer – **Wells Fargo India**: Participated in environmental and education outreach
-
----
-
-## 😄 Pronouns: She/Her  
-## ⚡ Fun Fact:  
-I once built a dashboard analyzing loan disbursement trends, revealing that properties near metro areas were 40% more likely to close faster—turns out data has a way of speeding up more than just processing!
+🎤 **TAIR 2024 Presenter** – Delivered insights from THECB Almanac Data using SAS & Excel  
+🧩 **NSSE Volunteer** @ UNT – Supported leadership in student success strategy  
+🌍 **CSR Champion** – Led Wells Fargo India’s education & environmental outreach
 
 ---
 
-## 📫 Let's Connect!
+## 🔎 Fun Data Insight  
+📊 Built a dashboard showing that **real estate near metro hubs closed 40% faster** than others.  
+**Takeaway?** Data isn’t just for insights—it’s for acceleration 🚀
 
-Feel free to reach out or connect on [LinkedIn]https://www.linkedin.com/in/manisha-dornala/ or via email at **Manishadornala21107@gmail.com**. I’m open to exciting opportunities in analytics, finance, and data-driven innovation!
+---
 
+## 🤝 Let’s Connect
+
+I’m open to **internships and full-time opportunities** in:  
+📍 *Business Analytics • Financial Analytics • Strategy & Insights • Data Science*
+
+📬 Email me at **Manishadornala21107@gmail.com**  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/manisha-dornala/)
+
+---

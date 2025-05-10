@@ -29,9 +29,8 @@ Currently pursuing an **M.S. in Business Analytics** at the University of North 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat)  ![SAS](https://img.shields.io/badge/SAS-0278AA?style=flat&logo=sas&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### ☁️ Platforms & Systems  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-Ellucian Banner • WebFOCUS • TargetX
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)   ![Ellucian Banner Logo](https://seeklogo.com/images/E/ellucian-logo-351269B8E7-seeklogo.com.png)![WebFOCUS Logo](https://docs.tibco.com/pub/webfocus/8207/doc/html/images/webfocus_logo.png)![TargetX Logo](https://brandfetch.com/targetx.com/logo)
+
 
 ### 📚 Techniques & Concepts  
 - Predictive Modeling • Machine Learning • A/B Testing  
